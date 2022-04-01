@@ -1,6 +1,6 @@
 :root{
     --white: #ffffff;
-    --gray: #b4b2b2;
+    --gray: #a86f4b;
     --black: #1B1B1B;
     --text: #39393A;
     --caption: #8f8f8f;
@@ -22,7 +22,7 @@ footer{
     margin-top: 45px;
     margin-bottom: 10px;
     text-align: center;
-    color: var(--caption);
+    color: var(--text);
     font-size: 12px;
 }
 
