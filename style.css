@@ -1,9 +1,9 @@
 :root{
     --white: #ffffff;
-    --gray: #a86f4b;
+    --body: #ae724f;
     --black: #1B1B1B;
     --text: #39393A;
-    --caption: #8f8f8f;
+    --gray: #8f8f8f;
 }
 
 *{
@@ -14,7 +14,7 @@
 
 body{
     font-family: "Roboto", sans-serif;
-    background-color: var(--gray);
+    background-color: var(--body);
     justify-content: center;
 }
 
@@ -43,7 +43,7 @@ footer{
 }
 
 .recipe-video figcaption{
-    color: var(--caption);
+    color: var(--gray);
     font-size: 12px;
     text-align: right;
 }
